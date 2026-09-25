@@ -90,7 +90,7 @@ The Power BI dashboard includes:
 
 ### Dashboard Preview
 
-https://github.com/SambitChoudhury7/OLIST_E-COMMERCE_ANALYSIS-/blob/c630b9733bbd19a957344ad48f36582636e5860c/Screenshot%202026-09-24%20204613.png
+![image alt](https://github.com/SambitChoudhury7/OLIST_E-COMMERCE_ANALYSIS-/blob/c630b9733bbd19a957344ad48f36582636e5860c/Screenshot%202026-09-24%20204613.png)
 
 ## Limitations
 

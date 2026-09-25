@@ -16,7 +16,7 @@ Python (data cleaning, type conversion, validation) → PostgreSQL (business ana
 
 Olist public Brazilian E-Commerce Dataset: orders, customers, order items, payments, reviews, products, and sellers.
 
-The original dataset is not included in this repository because of file-size limitations.
+The original dataset is included in this repository. 
 
 ## Methodology
 
